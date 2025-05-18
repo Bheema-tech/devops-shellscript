@@ -4,4 +4,4 @@ echo "Enter your pin Number"
 
 read PIN
 
-ech " PIN number $PIN "
+echo " PIN number $PIN "
